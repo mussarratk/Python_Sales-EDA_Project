@@ -1,5 +1,3 @@
-# Python_Sales_DataAnalysis_Project
-Sales Data Analysis with Python & Tableau
 # Festival Sales Dataset - Data Analysis Project
 
 ## Overview
